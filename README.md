@@ -5,9 +5,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharitsaengsuwan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="tharitsaengsuwan" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tharitsaengsuwan&show_icons=true&locale=en" alt="tharitsaengsuwan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tharitsaengsuwan&show_icons=true&theme=tokyonight&locale=en" alt="tharitsaengsuwan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharitsaengsuwan&" alt="tharitsaengsuwan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharitsaengsuwan&theme=tokyonight" alt="tharitsaengsuwan" /></p>
 
 
 <div id="header" align="center">

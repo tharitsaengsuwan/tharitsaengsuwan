@@ -16,8 +16,8 @@
 </div>
 
 <div id="header" align="center">
-  <img src="[https://blog.eat24.com/free-pizza-party-pizza-a-bunch-of-gifs/](https://media.giphy.com/media/yggyIk2UNfIaR2aBxV/giphy.gif)" width="100"/>
-</div>
+  <img src="https://media.giphy.com/media/yggyIk2UNfIaR2aBxV/giphy.gif" width="100"/>
+</div>https://media.giphy.com/media/yggyIk2UNfIaR2aBxV/giphy.gif
 
 <!--
 **tharitsaengsuwan/tharitsaengsuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

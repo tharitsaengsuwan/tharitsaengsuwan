@@ -16,8 +16,8 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/yggyIk2UNfIaR2aBxV/giphy.gif" width="100"/>
-</div>https://media.giphy.com/media/yggyIk2UNfIaR2aBxV/giphy.gif
+  <img src="https://media.giphy.com/media/Ub8XEam5vXbMY/giphy.gif" width="100"/>
+</div>
 
 <!--
 **tharitsaengsuwan/tharitsaengsuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

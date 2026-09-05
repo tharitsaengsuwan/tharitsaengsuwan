@@ -15,10 +15,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharitsaengsuwan&theme=tokyonight" alt="tharitsaengsuwan" /></p>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ub8XEam5vXbMY/giphy.gif" width="500"/>
-</div>
-
 <!--
 **tharitsaengsuwan/tharitsaengsuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
